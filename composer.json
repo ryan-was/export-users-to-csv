@@ -1,0 +1,10 @@
+{
+  "name": "export-users-to-csv/export-users-to-csv",
+  "description": "Export users data and metadata to a csv file",
+  "keywords": ["wordpress", "plugin", "export-users-to-csv"],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.3.2",
+    "composer/installers": "1.0.*"
+  }
+}
